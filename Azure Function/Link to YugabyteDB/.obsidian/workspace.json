@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "7a6979bcc76211a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c48e4bb154baa4b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6e6774575c78876",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CURD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CURD"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "06f9fab62f3aed42",
+    "type": "split",
+    "children": [
+      {
+        "id": "30ec811df9323b17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c26b72c38d692768",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "f0c9df111aa5c16e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "c0174fe76be96bed",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "637da98f58a4b7a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7178b87f258bd65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "224e1e2518aa3af2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CURD.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "CURD 的反向链接列表"
+            }
+          },
+          {
+            "id": "fc26c3819a1edb68",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "VSCode - python - function.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "VSCode - python - function 的出链列表"
+            }
+          },
+          {
+            "id": "2848527d8e8656f6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "2c650acfb3930fea",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "8ce7e2b870fff81b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "VSCode - python - function.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "VSCode - python - function 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false
+    }
+  },
+  "active": "c6e6774575c78876",
+  "lastOpenFiles": [
+    "yugabyteDB常用命令.md",
+    "CURD.md",
+    "代码学习/date-formatter.md",
+    "java-function.md",
+    "Link.md",
+    "postgrest.md",
+    "VSCode - python - function.md",
+    "准备数据库：.md",
+    "数据库表结构.md",
+    "实际函数中的用途：.md",
+    "代码学习/equest.getBody().orElse(null).md",
+    "代码学习/path parameter 和 query parameter 的区别是什么.md",
+    "代码学习/pom文件优化.md",
+    "代码学习/return request.createResponseBuilder(HttpStatus.BAD_REQUEST) .body().build();.md",
+    "代码学习/queryParams = request.getQueryParameters();.md",
+    "代码学习/PreparedStatement pstmt = conn.prepareStatement(sql.toString()).md",
+    "代码学习/params.add(UUID.fromString(entry.getValue()));.md",
+    "代码学习/jsonb.equalsIgnoreCase(meta.typeName()).md",
+    "代码学习/Connection conn = DriverManager.getConnection(url, user, password).md",
+    "代码学习",
+    "images/Pasted image 20251126122504.png",
+    "images/Pasted image 20251121142411.png",
+    "images/Pasted image 20251121142350.png",
+    "images/Pasted image 20251121142330.png",
+    "images/Pasted image 20251121142323.png",
+    "images/Pasted image 20251121142312.png",
+    "images/Pasted image 20251121142240.png",
+    "images/Pasted image 20251121142020.png",
+    "images/Pasted image 20251121141901.png",
+    "images/Pasted image 20251121141827.png",
+    "images"
+  ]
+}
